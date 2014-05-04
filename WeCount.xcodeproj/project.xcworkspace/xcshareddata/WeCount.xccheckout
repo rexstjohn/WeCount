@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>672AA99E-ED9D-4477-9E8F-F329F77BC0BF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeCount</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>315BC557-6BE9-49D0-9C9D-89AB202FB8E5</key>
+		<string>https://github.com/cclaiborne/icount</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone/WeCount.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>315BC557-6BE9-49D0-9C9D-89AB202FB8E5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cclaiborne/icount</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>315BC557-6BE9-49D0-9C9D-89AB202FB8E5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>315BC557-6BE9-49D0-9C9D-89AB202FB8E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>icount</string>
+		</dict>
+	</array>
+</dict>
+</plist>
